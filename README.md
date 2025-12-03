@@ -1,2 +1,2 @@
-# OmanAbrante3.github.io
+# nicholas-aboagye.github.io
 My Academic Portfolio Website
